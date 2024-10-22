@@ -12,7 +12,7 @@ btn.addEventListener("click", event=>{
     }
     else{
         box.style.display="none"
-        btn.textContent="Surprise😶‍🌫️"
+        btn.textContent="See me"
         
         
     }
